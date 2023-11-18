@@ -1,0 +1,6 @@
+.DS_Store
+data_sources/*
+data_sources/*/*/*
+data_standartized/*
+credentials.ini
+notebooks_archive/*
